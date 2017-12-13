@@ -2,7 +2,7 @@
 
 This is the code for paper: Hashing for Fast and Efficient Node Embedding, which is using hash functions to speed up the embedding algorithm. In our experiement, we have shown that the hash embedding methods gives similar accuracy but costs much shorter time. 
 
-Project done by Xinfeng Xu, Virginia Tech. Supervised by B. Aditya Prakash, Virginia Tech.
+Project done by Xinfeng Xu, Virginia Tech. Supervised by Prof. B. Aditya Prakash, Virginia Tech.
 
 
 All code are in src directory. Code running on Python 3.5.2 :: Anaconda custom (x86_64) and Keras 1.2.2.
